@@ -1,0 +1,77 @@
+
+Cjavascript:S1788d""Default parameters should be last.(´óçáøÿÿÿÿ
+=javascript:S1788j""Default parameters should be last.(õÙ‹J
+>javascript:S1788{""Default parameters should be last.(ã³í’
+?javascript:S1788Ç""Default parameters should be last.(ÀÍ Ò
+^javascript:S5842Û"<Rework this part of the regex to not match the empty string.(ûùùÿÿÿÿ
+fjavascript:S3358ò"DExtract this nested ternary operation into an independent statement.(ªÊüÿÿÿÿ
+qjavascript:S3776”"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ü¼ëÒ
+Xjavascript:S1121É";Extract the assignment of "childNode" from this expression.(ûÖ»
+vjavascript:S5843Ğ"TSimplify this regular expression to reduce its complexity from 32 to the 20 allowed.(Ñç¼”øÿÿÿÿ
+vjavascript:S5843Ò"TSimplify this regular expression to reduce its complexity from 27 to the 20 allowed.(Ï™Ãäşÿÿÿÿ
+vjavascript:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÕâÂÍùÿÿÿÿ
+qjavascript:S3776§"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ËÉ—ö
+?javascript:S1788§""Default parameters should be last.(ËÉ—ö
+cjavascript:S6661«"AUse an object spread instead of `Object.assign` eg: `{ ...foo }`.(²…Ä»ıÿÿÿÿ
+ijavascript:S101"MRename class "_Readable" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôâ¨¬
+<javascript:S1186²" Unexpected empty method '_read'.(Ò„Šn
+<javascript:S1186´"Unexpected empty method 'read'.(°Ùş¯
+?javascript:S1186Å""Unexpected empty method 'unshift'.(á—æñ
+Fjavascript:S3531ß"*Add a "yield" statement to this generator.(ËÁ¼=
+njavascript:S101"MRename class "_Writable" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚Ê€³şÿÿÿÿ
+?javascript:S1186·""Unexpected empty method '_writev'.(¹¾ïÊ
+@javascript:S1186¹"#Unexpected empty method '_destroy'.(€Ïı
+Cjavascript:S1186»"!Unexpected empty method '_final'.(Éºˆğøÿÿÿÿ
+ajavascript:S3358¿"DExtract this nested ternary operation into an independent statement.(şü£ú
+ajavascript:S3358Ç"DExtract this nested ternary operation into an independent statement.(í—×å
+ajavascript:S3358Ç"DExtract this nested ternary operation into an independent statement.(í—×å
+<javascript:S1186Ù"Unexpected empty method 'cork'.(©Ãä
+>javascript:S1186Û"!Unexpected empty method 'uncork'.(å¾£“
+Cjavascript:S1186‹	"'Unexpected empty method 'detachSocket'.(ëı8
+Ejavascript:S1186	"(Unexpected empty method 'writeContinue'.(§ì¹É
+Ljavascript:S1186¢	"*Unexpected empty method 'writeProcessing'.(¦“Ïåıÿÿÿÿ
+Cjavascript:S1186Ä	"&Unexpected empty method 'addTrailers'.(»Íéú
+Ijavascript:S1186Æ	"'Unexpected empty method 'flushHeaders'.(÷Æöæùÿÿÿÿ
+Ejavascript:S3504×	")Unexpected var, use let or const instead.(²…é?
+Kjavascript:S3504Ø	")Unexpected var, use let or const instead.(„é£©üÿÿÿÿ
+\javascript:S1121Ø	":Extract the assignment of "obj[key]" from this expression.(„é£©üÿÿÿÿ
+Fjavascript:S3504Ù	")Unexpected var, use let or const instead.(é Ñò
+vjavascript:S3776ù	"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ë‹±ğùÿÿÿÿ
+@javascript:S6324å"Remove this control character.(ÎÌ‹»úÿÿÿÿ
+qjavascript:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(œÁ
+Yjavascript:S1126„"<Replace this if-then-else flow by a single return statement.(ÖñÕ…
+Fjavascript:S3504ù")Unexpected var, use let or const instead.(Üòò“
+Kjavascript:S3504ú")Unexpected var, use let or const instead.(£•Óıÿÿÿÿÿ
+\javascript:S1121ú":Extract the assignment of "obj[key]" from this expression.(£•Óıÿÿÿÿÿ
+Kjavascript:S3504û")Unexpected var, use let or const instead.(§çÅ’ıÿÿÿÿ
+ajavascript:S3358Ş"DExtract this nested ternary operation into an independent statement.(ä÷Ç
+qjavascript:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Â™ïô
+vjavascript:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(çŞÙÊşÿÿÿÿ
+vjavascript:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ØĞ’Úıÿÿÿÿ
+Yjavascript:S4624½"7Refactor this code to not use nested template literals.(°ªÅ”ûÿÿÿÿ
+qjavascript:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(íÔÁ·
+qjavascript:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(¼ÜÆ¹
+Djavascript:S1788™""Default parameters should be last.(İÓ‰—ÿÿÿÿÿ
+qjavascript:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËÂÍ¬
+qjavascript:S3776î"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯Ûé”
+ajavascript:S3358—"DExtract this nested ternary operation into an independent statement.(Œâ·º
+qjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ô­äÂ
+Kjavascript:S3504 ")Unexpected var, use let or const instead.(ƒ·£ˆıÿÿÿÿ
+gjavascript:S1848Ì"EEither remove this useless object instantiation of "Proxy" or use it.(¿²‹ûøÿÿÿÿ
+vjavascript:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Í·‘ùÿÿÿÿ
+Ljavascript:S1186ù"*Unexpected empty method '_doProcessBlock'.(Ñ¬Åæøÿÿÿÿ
+~javascript:S6638×"aUnexpected constant binary expression. Compares constantly with the right-hand side of the `===`.(¿¯øà
+vjavascript:S5850‘"TGroup parts of the regex together to make the intended operator precedence explicit.(ı‚ĞÂùÿÿÿÿ
+^javascript:S2004¼"ARefactor this code to not nest functions more than 4 levels deep.(Øì™ñ
+cjavascript:S2004È"ARefactor this code to not nest functions more than 4 levels deep.(¯É§ãıÿÿÿÿ
+{javascript:S4144Æ!"YUpdate this function so that its implementation is not identical to the one on line 3853.(ë‡‰‹ÿÿÿÿÿ
+vjavascript:S5850Ê!"TGroup parts of the regex together to make the intended operator precedence explicit.(ı‚ĞÂùÿÿÿÿ
+ajavascript:S6660—""?'If' statement should not be the only statement in 'else' block(êœ€şÿÿÿÿ
+qjavascript:S5850­""TGroup parts of the regex together to make the intended operator precedence explicit.(šì‹÷
+>javascript:S6535­""!Unnecessary escape character: \:.(šì‹÷
+Xjavascript:S1126ğ#"<Replace this if-then-else flow by a single return statement.(Ìëœ7
+vjavascript:S3776†&"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(É¤ ãøÿÿÿÿ
+Vjavascript:S1135&"4Complete the task associated to this "TODO" comment.(êİ±ÿûÿÿÿÿ
+vjavascript:S3776Ú'"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ƒş×œüÿÿÿÿ
+vjavascript:S3776·("TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ø²‹Äûÿÿÿÿ
+Yjavascript:S4158ï)"<Review this usage of "plugins" as it can only be empty here.(ù®°š
