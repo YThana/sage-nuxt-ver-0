@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	font-size: 14px;
+	font-family: 'Onest', sans-serif;
+}
+
+/*!* scrollbar width *!*/
+::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+/*!* scrollbar Track *!*/
+::-webkit-scrollbar-track {
+	border-radius: 10px;
+}
+
+/*!* scrollbar Handle *!*/
+::-webkit-scrollbar-thumb {
+	background: rgba(85, 85, 85, 0.3);
+	border-radius: 10px;
+}
+
+/* remove the  input type number changing arrows */
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/*headings*/
+.heading1{
+	@apply text-5xl font-bold text-primaryColor-600;
+}
+
+.heading2{
+	@apply text-[1.75rem] font-bold text-primaryColor-600;
+}
+
+.heading3{
+	@apply text-[1.25rem] font-bold text-primaryColor-600;
+}
